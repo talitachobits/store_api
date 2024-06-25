@@ -158,7 +158,7 @@ sequenceDiagram
     Note right of Client: Status Code: 204 - No content
 ```
 
-## Desafio Final
+## Desafio Final (EM ANDAMENTO)
 - Create
     - Mapear uma exceção, caso dê algum erro de inserção e capturar na controller
 - Update
